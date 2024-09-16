@@ -9,4 +9,5 @@ A simple tool designed to streamline the setup and configuration of SimpleTuner 
 `git clone https://github.com/QuantumStr1der/PodTuningHelper.git`
 3. Upload your dataset as an archive under the PodTuningHelper folder named `dataset.zip`.
 4. Run `bash PodTuningHelper/main.sh HUGGINGFACE_TOKEN` with `HUGGINGFACE_TOKEN` as your Hugging Face access token from the same account you accepted the Flux EULA on.
-5. PodTuningHelper will install SimpleTuner, connect to Hugging Face, and start training your LoRA, checkpoints  save to `SimpleTuner/outputs`
+5. Enter your trigger word when prompted and press enter.
+6. PodTuningHelper will install SimpleTuner, connect to Hugging Face, and start training your LoRA, checkpoints  save to `SimpleTuner/outputs`.
